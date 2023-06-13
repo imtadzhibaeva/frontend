@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imtadzhibaeva/frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imtadzhibaeva/frontend/issues"
+  },
+  "homepage": "https://github.com/imtadzhibaeva/frontend#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
